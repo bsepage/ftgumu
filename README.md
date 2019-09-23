@@ -1,5 +1,5 @@
 # ftgumu
-Far Target Geolocation Using Multiple UAVs
+Far Target Geolocation Using Multiple UAVs (MSc Thesis, Cranfield University, 2015-2016)
 
 # Abstract
 
